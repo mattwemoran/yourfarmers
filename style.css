@@ -46,8 +46,12 @@ grid-row: 1;
   grid-row: 3;
 }
 .five {
-  grid-column: 2;
+font-size: 30px;
+  grid-column: 4/10;
   grid-row: 4;
+}
+.five{
+    text-align: center
 }
 .six {
   grid-column: 3;
